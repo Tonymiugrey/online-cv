@@ -51,12 +51,7 @@ sidebar:
 career-profile:
     title: Self Introduction
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      再说
 education:
     title: Education
     info:
@@ -76,57 +71,25 @@ experiences:
         time: 2022.6 - 2022.8
         company: 北京奇虎科技有限公司 - InnoTech事业部
         details: |
-          fef 
+          再说
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: 拍摄与剪辑实习生
+        time: 2021.07 - 2021.08
+        company: 莆田市湄洲日报社 - 新媒体中心
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          1. 参与30余条新闻短视频的拍摄与剪辑，并发布至“莆田新闻”短视频平台账号，单条获赞量最高1.7w；
+          2. 参与拍摄的四则新闻中，所拍摄照片皆登上报刊，拍摄素材后续多次在短视频与公众号文章中使用。
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: 索尼Imaging Edge应用的改进 - Leader + 原型设计
+        tagline: "《系统分析与设计》专业课项目：改进一个app并设计原型。我们对索尼Imaging Edge应用的交互与功能进行了改进：创新性地结合手机性能上的优势与相机成像上的优势，利用“计算摄影”技术来降低摄影的入门门槛。制作了用于展示的原型。\n1. 作为leader创新性地提出想法；带领小组进行统筹分工，负责整体方向的规划与进度管理；\n2. 规划新功能：对该应用原先的目标群体进行细分，根据需求，确定新功能的规划；期间\n3. 设计该应用的原型，结合组员反馈不断调整，最终在班上进行展示。"
 
-      - title: DevStudio
+      - title: ka!Bot机械键盘 - Leader + 产品规划
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "创业项目。ka!Bot 致力于打造个性化机械键盘，旨在为发烧友与入门用户带来集“潮玩”与“极客”两元素为一体，外观个性、高度可玩，拥有独创的模块化设计，且对入门用户足够友好的键盘产品；还将构建一套能够显著提升用户选购、使用体验，降低入门门槛的服务体系，让更多人了解、感受“键盘文化”，享受个性化所带来的乐趣与满足感。\n1. 作为项目Leader，提出想法，带领团队进行项目整体规划与推进，协调分工，把控进度；\n2. 规划产品：根据市场调研，从0到1规划产品生态与特色功能；主导产品技术的规划与实现；\n3. 规划团队未来发展路线，提出“三步走”战略，参与前期宣发的准备工作；\n4. 主导BP的撰写，制作路演PPT；参与市场营销专业课上的模拟创业比赛，得到导师的肯定并获得全班第一名；参加2021“赢在广州”创业大赛，进入港澳赛区20强。"
 
 skills:
     title: Skills &amp; Proficiency
