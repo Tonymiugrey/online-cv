@@ -49,7 +49,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Self Introduction
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -63,7 +63,7 @@ education:
       - degree: Business Administration - Business Analytics
         university: Macau University of Science and Technology
         time: 2019 - 2023
-        details: | # 之后补充
+        details: | # 暂时不展示
             We learn some basic business courses in first two years, and the courses about Business Analytics in last two years.
             - Business Analytics Courses: Data Mining and Big Data (Basic of ML Algorithms), Database (MySQL), Data Stucture (Python), Introduction of Business Analytics (Python in Data Analytics), System Analysis and Design, Decision Analysis in Business, Business Forcasting, 
             - Other Business Courses: Marketing, Accouting, Strategic Management, Organization Behaviors...
@@ -132,23 +132,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python and Common Data Analysis Packages
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Photography and Post Editing
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: Application of Machine Learning
+        level: 80%
+
+      - name: UI and Prototype Design
+        level: 75%
+
+      - name: SwiftUI and iOS Apps Develop
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
