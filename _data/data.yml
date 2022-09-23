@@ -81,7 +81,7 @@ experiences:
           1. 参与30余条新闻短视频的拍摄与剪辑，并发布至“莆田新闻”短视频平台账号，单条获赞量最高1.7w；
           2. 参与拍摄的四则新闻中，所拍摄照片皆登上报刊，拍摄素材后续多次在短视频与公众号文章中使用。
 
-projects:
+projects:  # 用上面那个套一下
     title: Projects
     assignments:
       - title: 索尼Imaging Edge应用的改进 - Leader + 原型设计
