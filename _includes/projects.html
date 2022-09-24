@@ -15,11 +15,19 @@
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="job-title">{{ projects.role }}</h3>
+
+        <span class="project-title">
+          {% if project.link %}
+          <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+          {% else %}
+          {{ project.title }}
+          {% endif %}
+      </span>
+
         <div class="time">{{ projects.time }}</div>
       </div><!--//upper-row-->
 
-      <div class="company">{{ projects.company }}</div>
+      <div class="role">{{ projects.role }}</div>
 
     </div><!--//meta-->
 
