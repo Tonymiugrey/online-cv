@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Sun Haoyang
-    tagline:
+    tagline: Tony
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -52,13 +52,14 @@ career-profile:
     title: Self Introduction
     summary: |
       再说
+
 education:
     title: Education
     info:
       - degree: Business Administration - Business Analytics
         university: Macau University of Science and Technology
         time: 2019 - 2023
-        details: | # 暂时不展示
+        details: | # sidebar内不展示
             We learn some basic business courses in first two years, and the courses about Business Analytics in last two years.
             - Business Analytics Courses: Data Mining and Big Data (Basic of ML Algorithms), Database (MySQL), Data Stucture (Python), Introduction of Business Analytics (Python in Data Analytics), System Analysis and Design, Decision Analysis in Business, Business Forcasting, 
             - Other Business Courses: Marketing, Accouting, Strategic Management, Organization Behaviors...
@@ -87,7 +88,7 @@ projects:
       - title: 索尼Imaging Edge应用的改进
         role: Leader + 原型设计
         time: 2022.6 - 2022.8
-        link: 
+        link: 754
         details: |
          《系统分析与设计》专业课项目：改进一个app并设计原型。我们对索尼Imaging Edge应用的交互与功能进行了改进：创新性地结合手机性能上的优势与相机成像上的优势，利用“计算摄影”技术来降低摄影的入门门槛。制作了用于展示的原型。
             - 作为leader创新性地提出想法；带领小组进行统筹分工，负责整体方向的规划与进度管理；
@@ -96,7 +97,7 @@ projects:
       - title: ka!Bot机械键盘
         role: Leader + 产品规划
         time: 2021.07 - 2021.08
-        link:
+        link: 754
         details: |
           创业项目。ka!Bot 致力于打造个性化机械键盘，旨在为发烧友与入门用户带来集“潮玩”与“极客”两元素为一体，外观个性、高度可玩，拥有独创的模块化设计，且对入门用户足够友好的键盘产品；还将构建一套能够显著提升用户选购、使用体验，降低入门门槛的服务体系，让更多人了解、感受“键盘文化”，享受个性化所带来的乐趣与满足感。
           - 1. 作为项目Leader，提出想法，带领团队进行项目整体规划与推进，协调分工，把控进度；
