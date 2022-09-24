@@ -207,7 +207,11 @@ p {
     color: $text-grey;
   }
 
-  .projects-section,
+  .projects-section {
+    .item {
+      margin-bottom: 30px;
+    }
+  }
   .pj-upper-row {
     position: relative;
     overflow: hidden;
