@@ -207,21 +207,29 @@ p {
     color: $text-grey;
   }
 
-  .project-title {
+  .projects-section,
+  .upper-row {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 2px;
+  }
+  .projects-title,
+  .degree {
+    color: $text-color;
     font-size: 16px;
-    font-weight: 400;
     margin-top: 0;
-    margin-bottom: 5px;
-    color: darken($theme-color, 15%);
+    margin-bottom: 0;
+    font-weight: 500;
   }
-  .projects-section {
-    .intro {
-      margin-bottom: 30px;
-    }
-    .item {
-      margin-bottom: 15px;
-    }
+  .time {
+    position: absolute;
+    right: 0;
+    top: 0;
+    color: $text-grey;
   }
+  .role,
+
+
 
   .publication-title {
     font-size: 16px;
