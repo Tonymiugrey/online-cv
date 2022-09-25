@@ -14,18 +14,12 @@ sidebar:
     # Sidebar links
     email: Tonymiugrey@qq.com
     phone: +86 185 9012 0260
-    timezone:
-    citizenship:
+    # 加个bilibili
     website: miuGrey.com.cn #do not add http://
     github: Tonymiugrey
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf # 记得改
+    # 加个作品集
 
     languages:
       title: Languages
@@ -68,7 +62,7 @@ education:
 experiences:
     title: Working Experiences
     info:
-      - role: 产品运营
+      - role: 产品运营实习生
         time: 2022.6 - 2022.8
         company: 北京奇虎科技有限公司 - InnoTech事业部
         details: |
@@ -90,8 +84,24 @@ experiences:
         company: 莆田市湄洲日报社 - 新媒体中心
         details: |
           结合兴趣与特长，进行新闻短视频的拍摄与剪辑。
-           - 参与30余条新闻短视频的拍摄与剪辑，并发布至“莆田新闻”短视频平台账号，单条获赞量最高1.7w；
+           - 参与30余条新闻短视频的拍摄与剪辑，并发布至“莆田新闻”各短视频平台账号，单条获赞量最高1.7w；
            - 参与拍摄的四则新闻中，所拍摄照片皆登上报刊，拍摄素材后续多次在短视频与公众号文章中使用。
+
+      - role: KCloud运营官
+        time: 2021.06 - 2021.07
+        company: 广州酷狗计算机科技有限公司 - 酷狗概念版部门
+        details: |
+          参加运营培训，并在《酷狗音乐概念版》中亲自运营频道与自习室。
+            - 截至2022.04，所运营频道“小憩休息站”已有62491位用户订阅，频道下属自习室位于推荐首页；
+            - 项目结束时位于运营KPI榜第七位（共百余位），曾最高达到第一位。
+
+      - role: 产品运营实习生
+        time: 2021.07 - 2021.08
+        company: 北京搜狐互联网信息服务有限公司 - 狐友部门
+        details: |
+          参与狐友App的内容体验工作.
+            - 每周撰写特定垂类圈子内容的体验报告，并针对狐友社交平台的内容运营、用户体验与App本身使用体验等方面提出问题与合理的解决方案；
+            - 项目结束时共产出6篇报告。
 
 projects:  
     title: Projects
