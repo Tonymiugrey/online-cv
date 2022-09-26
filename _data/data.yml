@@ -20,7 +20,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     biliName: Ohhhhhmiugrey
     biliID: 14467462
-    pdf:  # 记得改
+    pdf:  # 把文件放到assets/attachments里面，然后在cv链接后面加上"/assets/attachments/文件名.pdf"贴这里
     # 加个作品集
 
     languages:
