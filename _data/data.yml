@@ -11,17 +11,15 @@ sidebar:
     tagline: Tony
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
+    # Sidebar links  妹有的就放空
     email: Tonymiugrey@163.com
     phone: +86 185 9012 0260
-    # 加个bilibili
     website: miuGrey.com.cn #do not add http://
     github: Tonymiugrey
-    goodreads: # Number-Username, e.g. 123456-alandoe
     biliName: Ohhhhhmiugrey
     biliID: 14467462
     pdf:  # 把文件放到assets/attachments里面，然后在cv链接后面加上"/assets/attachments/文件名.pdf"贴这里
-    # 加个作品集
+    # 等有作品集了 加个链接
 
     languages:
       title: Languages
