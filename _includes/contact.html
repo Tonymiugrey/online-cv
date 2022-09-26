@@ -86,14 +86,14 @@
     {% endif %}
 
     {% if sidebar.goodreads %}
-    <li class="goodreads-g"><i class='fab fa-bilibili'></i>
-      <a href="https://space.bilibili.com/{{ sidebar.biliID }}" target="_blank">{{ sidebar.biliName }}</a>
+    <li class="goodreads-g"><i class='fab fa-goodreads-g'></i>
+      <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
     </li>
     {% endif %}
 
-    {% if sidebar.bilibili %}
-    <li class="bilibili"><i class="fab fa-goodreads-g"></i>
-      <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
+    {% if sidebar.biliName %}
+    <li class="bilibili"><i class="fab fa-bilibili"></i>
+      <a href="https://space.bilibili.com/{{ sidebar.biliID }}" target="_blank">{{ sidebar.biliName }}</a>
     </li>
     {% endif %}
 
