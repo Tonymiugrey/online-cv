@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Sun Haoyang
@@ -17,7 +17,7 @@ sidebar:
     website: miuGrey.com.cn #do not add http://
     github: Tonymiugrey
     biliName: Ohhhhhmiugrey
-    biliID: 14467462 
+    biliID: 14467462
     pdf:  # 把文件放到assets/attachments里面，然后在cv链接后面加上"/assets/attachments/文件名.pdf"贴这里
     # 等有作品集了 加个链接
 
@@ -41,6 +41,11 @@ sidebar:
 
         - item: 👨🏻‍💻 Coding
           link:
+
+career-profile:
+    title: Self Introduction
+    summary: |
+      再说（关键词：澳科大商业分析在读，会Python和ML等；尝试过，并对产品工作感兴趣；目前自学SwiftUI并尝试开发iOS App；喜欢电子产品和摄影）
 
 education:
     title: Education
