@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -41,11 +41,6 @@ sidebar:
 
         - item: 👨🏻‍💻 Coding
           link:
-
-career-profile:
-    title: Self Introduction
-    summary: |
-      再说（关键词：澳科大商业分析在读，会Python和ML等；尝试过，并对产品工作感兴趣；目前自学SwiftUI并尝试开发iOS App；喜欢电子产品和摄影）
 
 education:
     title: Education
@@ -123,7 +118,7 @@ projects:
         time: 2020.10 - 2021.12
         link: https://cv.miugrey.com.cn/assets/attachments/ka!Bot_BP.pdf
         details: |
-          2021“赢在广州”创业大赛港澳赛区20强。
+          **2021“赢在广州”创业大赛港澳赛区20强。**
 
           ka!Bot 致力于打造个性化机械键盘，旨在为发烧友与入门用户带来集“潮玩”与“极客”两元素为一体，
           外观个性、高度可玩，且对入门用户足够友好的键盘产品；
