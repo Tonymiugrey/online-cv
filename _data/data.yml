@@ -81,11 +81,8 @@ experiences:
         company: 莆田市湄洲日报社 - 新媒体中心
         details: |
           Taking and editing of short videos about news based on my interests and expertise.
-           - **Video taking and editing**：Participated in the process of taking and editing short videos. The amount of videos is more than 30.
-
-           Posted them to short video platforms accounts of "Putian News". The highest number of likes approximately reached 1,7000.
-
-           All the photos I took in the 4 news I participated in camera shooting were published at newspapers, and the materials i took were used in short videos and articles on public accounts for many times.
+           - Participated in taking and editing short videos, then posted them to short video platforms accounts of "Putian News". The amount of videos is more than 30. The highest number of likes approximately reached 1,7000.
+           - All the materials I took were published at newspapers and used in short videos for many times.
 
       - role: KCloud运营官
         time: 2021.06 - 2021.07
@@ -151,7 +148,7 @@ skills:
       - name: Application of Machine Learning
         level: 65%
 
-      - name: UI and Prototype Design
+      - name: User Interface and Prototype Design
         level: 60%
 
       - name: SwiftUI and iOS Apps Development
