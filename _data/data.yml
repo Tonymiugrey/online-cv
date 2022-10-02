@@ -50,14 +50,14 @@ education:
         time: 2019 - 2023
         details: | # sidebar内不展示
             We learn some basic business courses in first two years, and the courses about Business Analytics in last two years.
-            - Business Analytics Courses: Data Mining and Big Data (Basic of ML Algorithms), Database (MySQL), Data Stucture (Python), Introduction of Business Analytics (Python in Data Analytics), System Analysis and Design, Decision Analysis in Business, Business Forcasting, 
-            - Other Business Courses: Marketing, Accouting, Strategic Management, Organization Behaviors...
-            - Elective Courses: Visual Communicaton (About cinema industry and filming), Computer Science, 
+            - Business Analytics Courses: System Analysis and Design, Data Mining and Big Data (basic machine learning algorithms), Database (MySQL), Data Stucture (in Python), Introduction of Business Analytics (Python in data analysis), Decision Analysis in Business (about linear programming and Solver in Excel), Business Forcasting (about Minitab), Social Media Analysis (Some basic NLP knowledge and data analysis method) 
+            - Other Business Courses: Management of Information System, Marketing, Accouting, Strategic Management, Organization Behaviors...
+            - Elective Courses: Visual Communicaton (about cinema industry and filming techniques), Computer Science (some basic knowledge in diffrent field of CS), AI and Robotics Applications in Business, Research Method and Simluation (about NetLogo)
 
 experiences:
     title: Working Experiences
     info:
-      - role: 产品运营实习生
+      - role: Product Operation Intern
         time: 2022.6 - 2022.8
         company: 北京奇虎科技有限公司 - InnoTech事业部
         details: |
@@ -80,9 +80,12 @@ experiences:
         time: 2021.07 - 2021.08
         company: 莆田市湄洲日报社 - 新媒体中心
         details: |
-          结合兴趣与特长，进行新闻短视频的拍摄与剪辑。
-           - **视频拍摄与剪辑**：参与30余条新闻短视频的拍摄与剪辑，并发布至“莆田新闻”各短视频平台账号，单条获赞量最高1.7w；
-           参与拍摄的四则新闻中，所拍摄照片皆登上报刊，拍摄素材后续多次在短视频与公众号文章中使用。
+          Taking and editing of short videos about news based on my interests and expertise.
+           - **Video taking and editing**：Participated in the process of taking and editing short videos. The amount of videos is more than 30.
+
+           Posted them to short video platforms accounts of "Putian News". The highest number of likes approximately reached 1,7000.
+
+           All the photos I took in the 4 news I participated in camera shooting were published at newspapers, and the materials i took were used in short videos and articles on public accounts for many times.
 
       - role: KCloud运营官
         time: 2021.06 - 2021.07
