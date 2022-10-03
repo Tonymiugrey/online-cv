@@ -49,9 +49,10 @@ education:
         university: Macau University of Science and Technology
         time: 2019 - 2023
         details: | # sidebar内不展示
-            We learn some basic business courses in first two years, and the courses about Business Analytics in last two years.
-            - Business Analytics Courses: System Analysis and Design, Data Mining and Big Data (basic machine learning algorithms), Database (MySQL), Data Stucture (in Python), Introduction of Business Analytics (Python in data analysis), Decision Analysis in Business (about linear programming and Solver in Excel), Business Forcasting (about Minitab), Social Media Analysis (Some basic NLP knowledge and data analysis method) 
-            - Other Business Courses: Management of Information System, Marketing, Accouting, Strategic Management, Organization Behaviors...
+            We learn some basic business courses and general education courses in first two years, and the courses about Business Analytics in last two years.
+            - Business Analytics Courses: System Analysis and Design, Data Mining and Big Data (basic machine learning algorithms), Database (MySQL), Data Stucture (in Python), Introduction of Business Analytics (Python in data analysis), Decision Analysis in Business (about linear programming and Solver in Excel), Business Forcasting (about Minitab), Social Media Analysis (Some basic NLP knowledge and data analysis method)...
+            - Other Business Courses: Management of Information System, Business Statistic, Strategic Management, Marketing, Accouting...
+            - General Education Courses: English (reading, writing, speaking, translation and some special topics), Mathematics (Linear Algebra and Calculus)...
             - Elective Courses: Visual Communicaton (about cinema industry and filming techniques), Computer Science (some basic knowledge in diffrent field of CS), AI and Robotics Applications in Business, Research Method and Simluation (about NetLogo)
 
 experiences:
