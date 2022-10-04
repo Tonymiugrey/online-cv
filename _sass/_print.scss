@@ -4,7 +4,7 @@
         size: A4;
     }
     body {
-       font-size: 12pt;
+       font-size: 8pt;
     }
 
     img.avatar {
@@ -21,10 +21,6 @@
         float: right;
         width: 40%;
         -webkit-print-color-adjust: exact; 
-    }
-
-    .remove-container.container-block {
-       display: none;
     }
 
     footer {
