@@ -18,9 +18,13 @@
    }
     .sidebar-wrapper {
         position: static;
-        float: right;
-        width: 40%;
+        float: left;
+        width: 30%;
         -webkit-print-color-adjust: exact; 
+    }
+
+    .remove-container.container-block {
+       display: none;
     }
 
     footer {
