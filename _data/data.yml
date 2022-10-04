@@ -51,23 +51,24 @@ education:
         details: | # sidebar内不展示
             We learn some basic business courses and general education courses in first two years, 
             and the courses about Business Analytics in last two years.
-            - **Business Analytics Courses**: System Analysis and Design, 
+            - **Business Analytics Courses**: 
+            System Analysis and Design, 
             Data Mining and Big Data, 
             Database, Data Stucture, 
             Introduction of Business Analytics, 
-            Decision Analysis in Business, 
-            Business Forcasting, 
             Social Media Analysis...
-            - **Other Business Courses**: Management of Information System, 
+            - **Other Business Courses**: 
+            Management of Information System, 
             Business Statistic, 
             Marketing...
-            - **General Education Courses**: English, 
+            - **General Education Courses**: 
+            English, 
             Mathematics, 
             Information Technology...
-            - **Elective Courses**: Visual Communicaton, 
+            - **Elective Courses**: 
+            Visual Communicaton, 
             Computer Science, 
-            AI and Robotics Applications in Business, 
-            Research Method and Simluation...
+            AI and Robotics Applications in Business...
 
 experiences:
     title: Working Experiences
@@ -122,8 +123,10 @@ projects:
         link: https://tony143447.invisionapp.com/prototype/ckyrhixkm006f8o01pa3aloqg/play
         details: |
          We improved the interaction and functions of Sony Imaging Edge App and made a prototype:
-         for interaction，we redesign the UI and logic of interaction to satisfy both starters and pro users;
-         for functions, we combined the performance advantage of smartphones with imaging advantage of camera innovatively, 
+         
+         **For interaction**, we redesign the UI and logic of interaction to satisfy both starters and pro users;
+
+         **For functions**, we combined the performance advantage of smartphones with imaging advantage of camera innovatively, 
          present the thought that reduce the threshold of camera photography by Computational Photography technology.
             - **As leader**: 提出创新性的主张与想法，统筹分工，负责项目的规划与进度管理；
             - **Planning new features**: Segmented the original target users of the app, 
