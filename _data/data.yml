@@ -62,7 +62,8 @@ education:
             Business Statistic, 
             Marketing...
             - **General Education Courses**: English, 
-            Mathematics...
+            Mathematics, 
+            Information Technology...
             - **Elective Courses**: Visual Communicaton, 
             Computer Science, 
             AI and Robotics Applications in Business, 
@@ -115,22 +116,26 @@ experiences:
 projects:  
     title: Projects
     info: 
-      - title: Improvement of Sony's Imaging Edge（Click for prototype）
+      - title: Improvement of Sony's Imaging Edge (Click for prototype)
         role: Project in System Design and Analysis Course - Leader + Prototype Design
         time: 2022.02 - 2022.05
         link: https://tony143447.invisionapp.com/prototype/ckyrhixkm006f8o01pa3aloqg/play
         details: |
-         我们对索尼Imaging Edge应用的交互与功能进行了改进：交互上，针对入门用户与专业用户的不同需求，
-         设计了能够较好满足二者需求的UI与交互逻辑；
-         功能上，创新性地结合手机的性能优势与相机的成像优势，提出利用“计算摄影”降低相机入门门槛的解决方案。
-            - **作为项目leader**：提出创新性的主张与想法，统筹分工，负责项目的规划与进度管理；
-            - **规划新功能**：对该应用原先的目标群体进行细分，根据需求，确定新功能的具体内容；
-            期间结合多个同类或相关app的使用体验，对app现有功能与体验进行优化；
-            - **参与逻辑设计**：与成员共同完成系统架构图、DFD等逻辑图示；
-            - **独立完成应用原型的设计**完成逻辑、UI内容与动效的原型设计，并结合多方反馈，不断优化逻辑以增强用户体验，
-            最终进行成果展示。
+         We improved the interaction and functions of Sony Imaging Edge App and made a prototype:
+         for interaction，we redesign the UI and logic of interaction to satisfy both starters and pro users;
+         for functions, we combined the performance advantage of smartphones with imaging advantage of camera innovatively, 
+         present the thought that reduce the threshold of camera photography by Computational Photography technology.
+            - **As leader**: 提出创新性的主张与想法，统筹分工，负责项目的规划与进度管理；
+            - **Planning new features**: Segmented the original target users of the app, 
+            and determined the specific content of new functions according to the user requirments;
+            - **Improving user experience**: Optimized the current user experience and functions according other related apps;
+            - **Participated in logic design**: Completed the system architecture, 
+            data flow and some other logical diagrams with teammates;
+            - **Completed the design of prototype independently**: Completed the prototype design of 
+            logic and UI with animation, improved UX continuously due to feedbacks, 
+            and demonstrated the final results.
 
-      - title: ka!Bot机械键盘（点击查看项目BP）
+      - title: ka!Bot机械键盘 (点击查看项目BP)
         role: 创业项目 - Leader + 产品规划
         time: 2020.10 - 2021.12
         link: https://cv.miugrey.com.cn/assets/attachments/ka!Bot_BP.pdf
