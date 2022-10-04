@@ -49,8 +49,7 @@ education:
         university: Macau University of Science and Technology
         time: 2019 - 2023
         details: | # sidebar内不展示
-            We learn some basic business courses and general education courses in first two years, 
-            and the courses about Business Analytics in last two years.
+            We learn some basic business courses and general education courses in first two years, and the courses about Business Analytics in last two years.
             - **Business Analytics Courses**: **System Analysis and Design**, 
             **Data Mining and Big Data** (basic machine learning algorithms), 
             **Database** (MySQL), **Data Stucture** (in Python), 
@@ -73,9 +72,9 @@ education:
 experiences:
     title: Working Experiences
     info:
-      - role: Product Operation Intern
-        time: Jun 2022 - Aug 2022
-        company: Beijing Qihoo Technology Co., Ltd. - InnoTech Department
+      - role: 产品运营实习生
+        time: 2022.6 - 2022.8
+        company: 北京奇虎科技有限公司 - InnoTech事业部
         details: |
           利用所学知识与专长，全权负责一个项目模块的运营与优化。
             - **参与产品迭代流程**：
@@ -92,33 +91,30 @@ experiences:
             根据使用体验，有针对性地总结竞品优势与特色功能，产出调研报告，得到领导肯定；
             在部门内汇报与讨论后，结合现状提出产品优化方案，并输出文档，与相关负责人交接。
 
-      - role: Camera Shooting and Editing Intern
-        time: Jul 2021 - Aug 2021
-        company: Putian Meizhou Daily - Center of New Media
+      - role: 拍摄与剪辑实习生
+        time: 2021.07 - 2021.08
+        company: 莆田市湄洲日报社 - 新媒体中心
         details: |
-          Taking and editing of short videos about news based on my interests and expertise.
-           - Participated in taking and editing short videos, then posted them to short video platforms accounts of "Putian News". 
-           The amount of videos is more than 30. The highest number of likes approximately reached 1,7000.
-           - All the materials I took were published at newspapers and used in short videos for many times.
+          结合兴趣与特长，进行新闻短视频的拍摄与剪辑。
+           - **视频拍摄与剪辑**：参与30余条新闻短视频的拍摄与剪辑，并发布至“莆田新闻”各短视频平台账号，单条获赞量最高1.7w；
+           参与拍摄的四则新闻中，所拍摄照片皆登上报刊，拍摄素材后续多次在短视频与公众号文章中使用。
 
-      - role: KCloud Opetator
-        time: Jun 2021 - Jul 2021
-        company: Guangzhou Kugou Technology Co., Ltd. - Kugou Concept Version Department
+      - role: KCloud运营官
+        time: 2021.06 - 2021.07
+        company: 广州酷狗计算机科技有限公司 - 酷狗概念版部门
         details: |
-          Operated the channel and study room in Kugou Concept Version.
-            - Summarize the recommendation mechanism of platform, 
-            formulate and implement the operation plan in stages
-            according to current situation of the operated channal such as views, 
-            online users and user portraits.
-            - Ranked 7th in the KPI list at the end of the project and reached 1st at the highest.
-            Up to April 2022, The channal I operated has been subscribed by more than 6,0000 users, 
-            and the study room in this channel is located on the first page.
+          在《酷狗音乐概念版》App中亲自运营频道与自习室。
+            - 总结平台推荐机制后，针对所运营频道现状，结合浏览量、关注量、在线人数、用户画像等特征, 
+            分阶段制定运营方案并执行；
+            - 项目结束时位于运营KPI榜第七位，曾最高达到第一位；
+            截至2022.04，所运营频道“小憩休息站”已有6w+用户订阅，频道下属自习室位于推荐首页。
+
 
 projects:  
     title: Projects
-    info: 
-      - title: Improvement of Sony's Imaging Edge App（Click to see the prototype）
-        role: Project in System Design and Analysis Course - Leader + Prototype Design
+    info:
+      - title: 索尼Imaging Edge应用的改进（点击查看原型设计）
+        role: 《系统分析与设计》专业课项目 - Leader + 原型设计
         time: 2022.02 - 2022.05
         link: https://tony143447.invisionapp.com/prototype/ckyrhixkm006f8o01pa3aloqg/play
         details: |
