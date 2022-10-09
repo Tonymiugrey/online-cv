@@ -28,7 +28,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: IELTS Acadamic 6.5
+          level: IELTS Academic 6.5
 
     interests:
       title: Interests
@@ -55,7 +55,7 @@ education:
             System Analysis and Design, 
             Data Mining and Big Data, 
             Database, 
-            Data Stucture...
+            Data Structure...
             - **Other Business Courses**: 
             Management of Information System, 
             Business Statistic, 
@@ -64,24 +64,27 @@ education:
             Mathematics, 
             Information Technology...
             - **Elective Courses**: 
-            Visual Communicaton, 
+            Visual Communication, 
             Computer Science, 
             AI and Robotics Applications in Business...
 
 experiences:
     title: Working Experiences
     info:
-      - role: Product Operation Intern
+      - role: 
         time: Jun 2022 - Aug 2022, 3 Months
         company: Beijing Qihoo Technology Co., Ltd. - InnoTech Department
         details: |
-          利用所学知识与专长，全权负责一个项目模块的运营与优化。
-            - **参与产品迭代流程**：
-            提出、规划版本主要新功能，输出版本文档；
-            推进UI设计、开发、测试等工作进度；
-            版本上线后跟踪新功能相关数据，分析其积极或消极影响，针对问题提出优化方案；
-            - **运营流程优化迭代**：
-            通过编写Python程序全面革新运营流程，实现自动化，将原工作时长缩短60%以上，极大提高了内容输出的效率与质量；
+          Took full responsibility for the operation and optimization 
+          of a project module using the knowledge and expertise acquired.
+            - **Participated in Product Iteration**:
+            Proposed and planned the main new features and presented as document; 
+            Promoted progress of UI design, development, testing and other works; 
+            Tracked the related data of new features after the version is launched, 
+            analyzed its impacts, and proposed further optimization plans;
+            - **Optimized Operation Process**：
+            通过编写Python程序全面革新运营流程，实现自动化，将原工作时长缩短60%以上，
+            极大提高了内容输出的效率与质量；
             与后端开发协作，部署自动化流程至服务器，并撰写说明文档，降低员工交接门槛；
             - **完成日常运营工作**：
             根据数据表现，对产品内容进行实时调整，使各版块点击量均有显著提升；
@@ -94,7 +97,7 @@ experiences:
         time: Jul 2021 - Aug 2021, 2 Months
         company: Putian Meizhou Daily - Center of New Media
         details: |
-          Taking and editing of short videos about news based on my interests and expertise.
+          Taking and editing short videos about news based on my interests and expertise.
            - **Short Videos Taking and Editing**: 
            Participated in taking and editing for 30+ short videos, 
            then posted them to short video platforms accounts of "Putian News".
@@ -120,58 +123,50 @@ experiences:
 projects:  
     title: Projects
     info: 
-      - title: Improvement of Sony's Imaging Edge (Click for prototype)
+      - title: Improvement of Sony Imaging Edge (Click for prototype)
         role: Team Project in System Design and Analysis Course - Team Leader + Prototype Design
         time: Feb 2022 - May 2022
         link: https://tony143447.invisionapp.com/prototype/ckyrhixkm006f8o01pa3aloqg/play
         details: |
-         Improved the interaction and functions of Sony Imaging Edge App and made a prototype:
-         **For interaction**, we redesigned the UI and logic of interaction to satisfy both starters and pro users;
-         **For functions**, we innovatively combined the performance advantage of smartphones with imaging advantage of camera, 
-         presented the thought that ease camera photography by Computational Photography technology.
+         Improved the interaction and functions of Sony Imaging Edge App and made a prototype.
+         Redesigned the entire UI, 
+         and innovatively combined the performance advantage of smartphones 
+         with imaging advantage of cameras, 
+         presented the idea that ease camera photography by Computational Photography technology.
             - **As Leader**: 
             Presented innovative ideas, coordinated the division of teammates, 
             and managed project planning and schedule;
             - **Planning New Features**: 
             Segmented the original target users of the app, 
-            and determined the specific content of new functions according to user requirments;
+            and determined the specific content of new functions according to user requirements;
             - **Improving User Experience**: 
-            Optimized the current user experience and functions according other related apps;
-            - **Logic Design**: 
+                        Optimized the current user experience and functions according other related apps; 
+                        improved UX continuously due to feedbacks from others;
+            - **Logic and Prototype Design**: 
             Completed the system architecture, 
             data flow and some other logical diagrams with teammates;
-            - **Prototype Design**: 
-            Completed the prototype design of 
-            logic and UI with animation independently, improved UX continuously due to feedbacks, 
-            and demonstrated the final results.
+            Completed the prototype design independently and demonstrated the final results.
 
       - title: ka!Bot Mechanical Keyboard (Click for Business Plan)
         role: Entrepreneurship Project - Team Leader + Product Manager
         time: Oct 2020 - Dec 2021
         link: https://cv.miugrey.com.cn/assets/attachments/ka!Bot_BP.pdf
         details: |
-          **Top 20 in HK and MO area, "Win in Guangzhou" Venture Contest 2021**
-
-          "ka!Bot" dedicated in customized machanical keyboard, 
+          **Top 20 in HK and MO area, the 10th "Winning in Guangzhou" College Students' Entrepreneurship Contest**
+          "ka!Bot" dedicated in customized mechanical keyboard, 
           aimed at bringing keyboards that combined "Fashion" and "Geek" together
-          for enthusiasts and entry-level users. The unique and innovative modularization design 
-          could enhance the featuers of keyboards and satisfy the imagination of a customized 
-          machanical keyboard for geeks. A set of services will significantly enhance the experiences 
-          of purchase and use, also lowering the barriers to entry. We wish to make more people 
-          experience "the culture of keyboards", and enjoy the fun and satisfaction of customization.
-            - **As Team Leader**: 
+          for both enthusiasts and entry-level users. The unique and innovative modularization design 
+          will enhance the features of keyboards, 
+          and satisfy geeks' imagination of customized mechanical keyboards. 
+          Our services will significantly enhance the experiences of purchase and use. 
+          We hope to make more people enjoy the fun and satisfaction of customization.
+            - **As Leader**: 
             Presented the innovative ideas and leaded the team to
             plan and promote the progress of project;
-            - **Achievements**: 
-            Participated in the simulated entrepreneurship competition in the Marketing course, 
-            and won the first place in the class;
-            Participated in "Win in Guangzhou" Venture Contest 2021, 
-            and entered the top 20 of HK and MO area;
-            - **Planning Product Line**: 
+            - **Planning Product Line and Features**: 
             Presented product ecosystem and unique features 
             to fit requirements of different consumer groups 
             which was various concepts and price expectation due to market research;
-            - **Planning Unique Technology**: 
             Presented requirements, alternative plan
             and some details of modularize design and ensure its feasibility;
             - **Planning Future Developments**: 
