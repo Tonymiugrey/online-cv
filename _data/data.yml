@@ -46,23 +46,21 @@ education:
     title: Education
     info:
       - degree: Business Administration - Business Analytics
-        university: Business School, Macau University of Science and Technology GPA 3.23/4
-        time: 2019 - 2023
+        university: Business School, Macau University of Science and Technology (GPA 3.23/4)
+        time: Expected in Jun 2023
         details: | # sidebar内不展示
-            We learn some basic business courses and general education courses in first two years, 
-            and the courses about Business Analytics in last two years.
+            Learnt some business and general education courses in first two years, 
+            then business analytics courses until graduate.
             - **Business Analytics Courses**: 
             System Analysis and Design, 
             Data Mining and Big Data, 
-            Database, Data Stucture, 
-            Introduction of Business Analytics, 
-            Social Media Analysis...
+            Database, 
+            Data Stucture...
             - **Other Business Courses**: 
             Management of Information System, 
             Business Statistic, 
             Marketing...
             - **General Education Courses**: 
-            English, 
             Mathematics, 
             Information Technology...
             - **Elective Courses**: 
@@ -74,7 +72,7 @@ experiences:
     title: Working Experiences
     info:
       - role: Product Operation Intern
-        time: Jun 2022 - Aug 2022
+        time: Jun 2022 - Aug 2022, 3 Months
         company: Beijing Qihoo Technology Co., Ltd. - InnoTech Department
         details: |
           利用所学知识与专长，全权负责一个项目模块的运营与优化。
@@ -93,24 +91,29 @@ experiences:
             在部门内汇报与讨论后，结合现状提出产品优化方案，并输出文档，与相关负责人交接。
 
       - role: Camera Shooting and Editing Intern
-        time: Jul 2021 - Aug 2021
+        time: Jul 2021 - Aug 2021, 2 Months
         company: Putian Meizhou Daily - Center of New Media
         details: |
           Taking and editing of short videos about news based on my interests and expertise.
-           - Participated in taking and editing short videos, then posted them to short video platforms accounts of "Putian News". 
-           The amount of videos is more than 30. The highest number of likes approximately reached 1,7000.
-           - All the materials I took were published at newspapers and used in short videos for many times.
+           - **Short Videos Taking and Editing**: 
+           Participated in taking and editing for 30+ short videos, 
+           then posted them to short video platforms accounts of "Putian News".
+           - **Achievements**: 
+           The highest likes amount per video approximately reached 1,7000. 
+           All the materials were published at newspapers and used in short videos.
 
       - role: KCloud Opetator
-        time: Jun 2021 - Jul 2021
+        time: Jun 2021, 1 Month
         company: Guangzhou Kugou Technology Co., Ltd. - Kugou Concept Version Department
         details: |
           Operated the channel and study room in Kugou Concept Version.
-            - Summarize the recommendation mechanism of platform, 
-            formulate and implement the operation plan in stages
-            according to current situation of the operated channal such as views, 
-            online users and user portraits.
-            - Ranked 7th in the KPI list at the end of the project and reached 1st at the highest.
+            - **Operating Channel**: 
+            Summarized the recommendation mechanism, 
+            formulated and implemented the operation plan in stages
+            according to current situation of channal such as user portraits, amount of views and
+            online users.
+            - **Achievements**: 
+            Ranked 7th in the KPI list at the end of the project and reached 1st at the highest.
             Up to April 2022, The channal I operated has been subscribed by more than 6,0000 users, 
             and the study room in this channel is located on the first page.
 
@@ -118,46 +121,65 @@ projects:
     title: Projects
     info: 
       - title: Improvement of Sony's Imaging Edge (Click for prototype)
-        role: Project in System Design and Analysis Course - Leader + Prototype Design
-        time: 2022.02 - 2022.05
+        role: Team Project in System Design and Analysis Course - Team Leader + Prototype Design
+        time: Feb 2022 - May 2022
         link: https://tony143447.invisionapp.com/prototype/ckyrhixkm006f8o01pa3aloqg/play
         details: |
-         We improved the interaction and functions of Sony Imaging Edge App and made a prototype:
-         **For interaction**, we redesign the UI and logic of interaction to satisfy both starters and pro users;
-         **For functions**, we combined the performance advantage of smartphones with imaging advantage of camera innovatively, 
-         present the thought that reduce the threshold of camera photography by Computational Photography technology.
-            - **As leader**: Presented the innovated thought, coordinated the division of teammates, 
+         Improved the interaction and functions of Sony Imaging Edge App and made a prototype:
+         **For interaction**, we redesigned the UI and logic of interaction to satisfy both starters and pro users;
+         **For functions**, we innovatively combined the performance advantage of smartphones with imaging advantage of camera, 
+         presented the thought that ease camera photography by Computational Photography technology.
+            - **As Leader**: 
+            Presented innovative ideas, coordinated the division of teammates, 
             and managed project planning and schedule;
-            - **Planning new features**: Segmented the original target users of the app, 
-            and determined the specific content of new functions according to the user requirments;
-            - **Improving user experience**: Optimized the current user experience and functions according other related apps;
-            - **Participated in logic design**: Completed the system architecture, 
+            - **Planning New Features**: 
+            Segmented the original target users of the app, 
+            and determined the specific content of new functions according to user requirments;
+            - **Improving User Experience**: 
+            Optimized the current user experience and functions according other related apps;
+            - **Logic Design**: 
+            Completed the system architecture, 
             data flow and some other logical diagrams with teammates;
-            - **Completed the design of prototype independently**: Completed the prototype design of 
-            logic and UI with animation, improved UX continuously due to feedbacks, 
+            - **Prototype Design**: 
+            Completed the prototype design of 
+            logic and UI with animation independently, improved UX continuously due to feedbacks, 
             and demonstrated the final results.
 
-      - title: ka!Bot机械键盘 (点击查看项目BP)
-        role: 创业项目 - Leader + 产品规划
-        time: 2020.10 - 2021.12
+      - title: ka!Bot Customized Mechanical Keyboard (Click for Business Plan)
+        role: Entrepreneurship Project - Team Leader + Product Manager
+        time: Oct 2020 - Dec 2021
         link: https://cv.miugrey.com.cn/assets/attachments/ka!Bot_BP.pdf
         details: |
-          **2021“赢在广州”创业大赛港澳赛区20强。**
+          **Top 20 in HK and MO area, "Win in Guangzhou" Venture Contest 2021**
 
-          ka!Bot 致力于打造个性化机械键盘，旨在为发烧友与入门用户带来集“潮玩”与“极客”两元素为一体，
-          外观个性、高度可玩，且对入门用户足够友好的键盘产品；
-          拥有独创的模块化设计，能够扩展键盘功能，满足“极客”们对键盘的幻想；
-          还将构建一套能够显著提升用户选购、使用体验，降低入门门槛的服务体系，
-          让更多人了解、感受“键盘文化”，享受个性化所带来的乐趣与满足感。
-            - **作为项目leader**：提出想法，带领团队进行项目整体规划与推进，协调分工，把控进度；
-            - **主导BP的撰写，制作路演PPT**；参与市场营销专业课上的模拟创业比赛，得到导师的肯定并获得全班第一名；
-            参加2021“赢在广州”创业大赛，进入港澳赛区20强。
-            - **主导产品线的规划**：根据市场调研，从0到1规划产品生态与特色功能，
-            以覆盖需求、理念与预期价格不同的用户群体；
-            - **主导产品技术的规划**：提出“模块化”方案的技术需求与部分细节，确保方案的可行性；
-            与成员进一步探讨，确定前期代替方案与最终方案的细节；
-            - **规划团队未来发展路线**：提出“三步走”战略：即前期专注于一个细分市场，并提高知名度、塑造品牌形象；
-            中后期逐渐丰富产品线，覆盖计划中的多类市场与目标用户；
+          "ka!Bot" dedicated in customized machanical keyboard, 
+          aimed at bringing keyboards that combined "Fashion" and "Geek" together
+          for enthusiasts and entry-level users. The unique and innovative modularization design 
+          could enhance the featuers of keyboards and satisfy the imagination of a customized 
+          machanical keyboard for geeks. A set of services will significantly enhance the experiences 
+          of purchase and use, also lowering the barriers to entry. We wish to make more people 
+          experience "the culture of keyboards", and enjoy the fun and satisfaction of customization.
+            - **As Team Leader**: 
+            Presented the innovative ideas and leaded the team to
+            plan and promote the progress of project;
+            - **Achievements**: 
+            Participated in the simulated entrepreneurship competition in the Marketing course, 
+            and won the first place in the class;
+            Participated in "Win in Guangzhou" Venture Contest 2021, 
+            and entered the top 20 of HK and MO area;
+            - **Planning Product Line**: 
+            Presented product ecosystem and unique features 
+            to fit requirements of different consumer groups 
+            which was various concepts and price expectation due to market research;
+            - **Planning Unique Technology**: 
+            Presented requirements, alternative plan
+            and some details of modularize design and ensure its feasibility;
+            - **Planning Future Developments**: 
+            Presented the "three-step" strategy: 
+            focus on one segment market in the early stage, 
+            and build brand image during this period; 
+            Then gradually enrich the product line in the middle and later stages, 
+            covering multiple types of markets and target users in the plan.
 
 skills:
     title: Skills &amp; Proficiency
