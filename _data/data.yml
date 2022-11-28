@@ -46,7 +46,7 @@ education:
     title: Education
     info:
       - degree: Business Administration - Business Analytics
-        university: Business School, Macau University of Science and Technology (GPA 3.23/4)
+        university: Business School, Macau University of Science and Technology
         time: 2019 - 2023, 4 Years
         details: | # sidebar内不展示
             Learnt some business and general education courses in first two years, 
@@ -92,6 +92,7 @@ experiences:
              produced the proposal of new features and improvements, 
              then reported in the department and affirmed by the leader; 
              Promoted the progress of UI design, development, and testing.
+      
       - role: Photography and Post-editing Intern
         time: Jul 2021 - Aug 2021
         company: Putian Meizhou Daily - Center of New Media
@@ -101,6 +102,7 @@ experiences:
            Participated in producing 30+ short videos and posted them to the "Putian News" TikTok account. 
            The highest amount of likes of videos hit approximately 1.7k+. 
            All the materials were published in newspapers or used in short videos.
+      
       - role: Content Operation Intern
         time: Jul 2021 - Aug 2021
         company: Guangzhou Kugou Technology Co., Ltd. - Kugou Concept Version Department
@@ -112,6 +114,7 @@ experiences:
             then formulated and implemented the operation plan in stages 
             according to the current situation of the channel. 
             More than 6,0000 users subscribed to the channel during that period.
+
       - role: Content Operation Intern
         time: Mar.2021 - May.2021
         company: SOHU Inc. - Huyou Department
@@ -138,6 +141,7 @@ projects:
             - **Data Processing**: 
             Taking part in data processing and being responsible for 
             developing an automatic data sorting system.
+      
       - title: Improvement of Sony Imaging Edge (Click for prototype)
         role: Course Project - Team Leader + Prototype Design
         time: Feb 2022 - May 2022
@@ -157,6 +161,7 @@ projects:
                 Optimized the current user experience and functions according to other related apps; improved UX continuously due to feedback from others;
             - **Logic and Prototype Design**: 
             Completed the system architecture, data flow, and some other logical diagrams with teammates; Redesigned the UI and completed the prototype design independently, then demonstrated the final results in class.
+      
       - title: ka!Bot Mechanical Keyboard (Click for Business Plan)
         role: Entrepreneurship Project - Team Leader + Product Manager
         time: Oct 2020 - Dec 2021
