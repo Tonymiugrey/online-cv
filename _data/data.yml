@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Sun Haoyang
@@ -71,110 +71,110 @@ education:
 experiences:
     title: Working Experiences
     info:
-      - role: 
-        time: Jun 2022 - Aug 2022, 3 Months
+      - role: Product Operation Intern
+        time: Jun 2022 - Aug 2022
         company: Beijing Qihoo Technology Co., Ltd. - InnoTech Department
         details: |
-          Took full responsibility for the operation and optimization 
-          of a project module using the knowledge and expertise acquired.
-            - **Participated in Product Iteration**:
-            Proposed and planned the main new features and presented as document; 
-            Promoted progress of UI design, development, testing and other works; 
-            Tracked the related data of new features after the version is launched, 
-            analyzed its impacts, and proposed further optimization plans;
-            - **Optimized Operation Process**：
-            通过编写Python程序全面革新运营流程，实现自动化，将原工作时长缩短60%以上，
-            极大提高了内容输出的效率与质量；
-            与后端开发协作，部署自动化流程至服务器，并撰写说明文档，降低员工交接门槛；
-            - **完成日常运营工作**：
-            根据数据表现，对产品内容进行实时调整，使各版块点击量均有显著提升；
-            根据经验，对运营方法进行标准化，输出文档；
-            - **通过竞品调研，提出优化方案**：
-            根据使用体验，有针对性地总结竞品优势与特色功能，产出调研报告，得到领导肯定；
-            在部门内汇报与讨论后，结合现状提出产品优化方案，并输出文档，与相关负责人交接。
+            Operated and optimized a project using the knowledge and expertise acquired. 
+            - **Renewed Operation Process**:
+             Renewed the whole operation process with 
+             automatic Python programs in spare time 
+             and cut more than 60% work hours, 
+             freed employees from repetitive tasks, 
+             and greatly enhanced the efficiency and quality of content; 
+            - **Summarized Operation Experiences**
+              Increased views by 40% in a month; 
+              Generalized the operation methods as a handbook 
+              to reduce employees’ learning costs, 
+              including operation experiences and automated processes; 
+            -**Proposed Product's New Features**:
+             Analyzed current situation and competitors’ advantages, 
+             produced the proposal of new features and improvements, 
+             then reported in the department and affirmed by the leader; 
+             Promoted the progress of UI design, development, and testing.
 
-      - role: Camera Shooting and Editing Intern
-        time: Jul 2021 - Aug 2021, 2 Months
+      - role: Photography and Post-editing Intern
+        time: Jul 2021 - Aug 2021
         company: Putian Meizhou Daily - Center of New Media
         details: |
           Taking and editing short videos about news based on my interests and expertise.
-           - **Short Videos Taking and Editing**: 
-           Participated in taking and editing for 30+ short videos, 
-           then posted them to short video platforms accounts of "Putian News".
-           - **Achievements**: 
-           The highest likes amount per video approximately reached 1,7000. 
-           All the materials were published at newspapers and used in short videos.
+           - **Short Videos Producing**: 
+           Participated in producing 30+ short videos and posted them to the "Putian News" TikTok account. 
+           The highest amount of likes of videos hit approximately 1.7k+. 
+           All the materials were published in newspapers or used in short videos.
 
-      - role: KCloud Opetator
-        time: Jun 2021, 1 Month
+      - role: Content Operation Intern
+        time: Jul 2021 - Aug 2021
         company: Guangzhou Kugou Technology Co., Ltd. - Kugou Concept Version Department
         details: |
-          Operated the channel and study room in Kugou Concept Version.
+          Operated the channel and study room in Kugou Concept Version. 
+          Ranked 7th in KPI at the end of the project (1st at the highest).
             - **Operating Channel**: 
-            Summarized the recommendation mechanism, 
-            formulated and implemented the operation plan in stages
-            according to current situation of channal such as user portraits, amount of views and
-            online users.
-            - **Achievements**: 
-            Ranked 7th in the KPI list at the end of the project and reached 1st at the highest.
-            Up to April 2022, The channal I operated has been subscribed by more than 6,0000 users, 
-            and the study room in this channel is located on the first page.
+            Summarized the recommendation regulation, 
+            then formulated and implemented the operation plan in stages 
+            according to the current situation of the channel. 
+            More than 6,0000 users subscribed to the channel during that period.
 
-projects:  
+        - role: Content Operation Intern
+        time: Mar.2021 - May.2021
+        company: SOHU Inc. - Huyou Department
+        details: |
+          Participated in the content experience of the Huyou app and gave feedback.
+            - **Feedback Report**: 
+            Wrote the experience report every week to point out 
+            the issues about the content operation and experience 
+            of the community, content, and the app itself, 
+            then presented feasible ideas to improve.
+
+  projects:  
     title: Projects
     info: 
+      - title: StomaCloud App (Still in Development)
+        role: Product Manager + App Development
+        time: Oct 2022 - Present
+        details: |
+            An app that helps you to decide what to eat.
+            - **Proposing Features**: 
+            Discussing and confirming the features with teammates and setting priority for them;
+            - **UI Design and App Development**: 
+            Presenting the initial design of UI and developing the iOS App with SwiftUI;
+            - **Data Processing**: 
+            Taking part in data processing and being responsible for 
+            developing an automatic data sorting system.
+
       - title: Improvement of Sony Imaging Edge (Click for prototype)
-        role: Team Project in System Design and Analysis Course - Team Leader + Prototype Design
+        role: Course Project - Team Leader + Prototype Design
         time: Feb 2022 - May 2022
         link: https://tony143447.invisionapp.com/prototype/ckyrhixkm006f8o01pa3aloqg/play
         details: |
-         Improved the interaction and functions of Sony Imaging Edge App and made a prototype.
-         Redesigned the entire UI, 
-         and innovatively combined the performance advantage of smartphones 
-         with imaging advantage of cameras, 
-         presented the idea that ease camera photography by Computational Photography technology.
+            Improved Sony Imaging Edge App and made a prototype. 
+            Presented the idea of making camera photography easier 
+            by Computational Photography technology, combining the 
+            performance advantage of smartphones with the imaging advantage 
+            of cameras innovatively.
             - **As Leader**: 
-            Presented innovative ideas, coordinated the division of teammates, 
-            and managed project planning and schedule;
+                Presented innovative ideas, coordinated the division 
+                of teammates, and managed project planning and schedule;
             - **Planning New Features**: 
-            Segmented the original target users of the app, 
-            and determined the specific content of new functions according to user requirements;
+                Segmented the original target users and determined the details of new features according to requirements;
             - **Improving User Experience**: 
-                        Optimized the current user experience and functions according other related apps; 
-                        improved UX continuously due to feedbacks from others;
+                Optimized the current user experience and functions according to other related apps; improved UX continuously due to feedback from others;
             - **Logic and Prototype Design**: 
-            Completed the system architecture, 
-            data flow and some other logical diagrams with teammates;
-            Completed the prototype design independently and demonstrated the final results.
+            Completed the system architecture, data flow, and some other logical diagrams with teammates; Redesigned the UI and completed the prototype design independently, then demonstrated the final results in class.
 
       - title: ka!Bot Mechanical Keyboard (Click for Business Plan)
         role: Entrepreneurship Project - Team Leader + Product Manager
         time: Oct 2020 - Dec 2021
         link: https://cv.miugrey.com.cn/assets/attachments/ka!Bot_BP.pdf
         details: |
-          **Top 20 in HK and MO area, the 10th "Winning in Guangzhou" College Students' Entrepreneurship Contest**
-          "ka!Bot" dedicated in customized mechanical keyboard, 
-          aimed at bringing keyboards that combined "Fashion" and "Geek" together
-          for both enthusiasts and entry-level users. The unique and innovative modularization design 
-          will enhance the features of keyboards, 
-          and satisfy geeks' imagination of customized mechanical keyboards. 
-          Our services will significantly enhance the experiences of purchase and use. 
-          We hope to make more people enjoy the fun and satisfaction of customization.
+          **Achievements: Project Innovation Award (Top 20 in HK and MO area), the 10th "Winning in Guangzhou" College Students' Entrepreneurship Contest**
+          "ka!Bot" dedicated in the customized mechanical keyboard for enthusiasts and entry-level users. The unique and innovative modularization design will enhance the features of keyboards and satisfy geeks' imagination. Our services will significantly enhance the experiences of purchase and use. We hope to make more people enjoy the fun and satisfaction of customization.
             - **As Leader**: 
-            Presented the innovative ideas and leaded the team to
-            plan and promote the progress of project;
+            Presented innovative ideas and led the team to plan and promote the progress of the project;
             - **Planning Product Line and Features**: 
-            Presented product ecosystem and unique features 
-            to fit requirements of different consumer groups 
-            which was various concepts and price expectation due to market research;
-            Presented requirements, alternative plan
-            and some details of modularize design and ensure its feasibility;
+            Presented concept of product ecosystem and unique features to fit requirements of different groups of consumers due to market research; Presented some technical details such as modularizing design, then ensuring its feasibility;
             - **Planning Future Developments**: 
-            Presented the "three-step" strategy: 
-            focus on one segment market in the early stage, 
-            and build brand image during this period; 
-            Then gradually enrich the product line in the middle and later stages, 
-            covering multiple types of markets and target users in the plan.
+            Presented the" three-step" strategy: focus on one segment market and marketing strategy in the early stage. Then gradually enrich the product line and cover multiple types of markets and target users.
 
 skills:
     title: Skills &amp; Proficiency
@@ -183,14 +183,20 @@ skills:
       - name: Photography and Post Editing
         level: 90%
 
-      - name: Python and Common Data Analysis Packages
-        level: 70%
+      - name: Python Programming (Simple Programs and Scripts)
+        level: 75%
 
-      - name: Application of Machine Learning
-        level: 65%
+      - name: Application of Data Analysis (with Python)
+        level: 75%
 
       - name: User Interface and Prototype Design
         level: 60%
 
+      - name: Web Spider (with Python)
+        level: 50%
+
       - name: SwiftUI and iOS Apps Development
         level: 50%
+
+      - name: Application of Machine Learning (with Python)
+        level: 40%
