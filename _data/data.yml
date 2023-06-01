@@ -10,7 +10,7 @@ sidebar:
   github: Tonymiugrey
   biliName: Ohhhhhmiugrey
   biliID: 14467462
-  pdf: https://cv.miugrey.com.cn/assets/attachments/Haoyang_Sun_s_Portfolio.pdf
+  pdf: null
   languages:
     title: Languages
     info:
@@ -46,41 +46,45 @@ experiences:
   - role: Product Operation Intern
     time: Jun 2022 - Aug 2022
     company: Beijing Qihoo Technology Co., Ltd. - InnoTech Department
-    details: "Operated and optimized a project using the knowledge and expertise acquired.\
-      \ \n- **Renewed Operation Process**:\n Renewed the whole operation process with\
-      \ \n automatic Python programs in spare time \n and cut more than 60% work hours,\
-      \ \n freed employees from repetitive tasks, \n and greatly enhanced the efficiency\
-      \ and quality of content; \n- **Summarized Operation Experiences**\n  Increased\
-      \ views by 40% in a month; \n  Generalized the operation methods as a handbook\
-      \ \n  to reduce employees\u2019 learning costs, \n  including operation experiences\
-      \ and automated processes; \n-**Proposed Product's New Features**:\n Analyzed\
-      \ current situation and competitors\u2019 advantages, \n produced the proposal\
-      \ of new features and improvements, \n then reported in the department and affirmed\
-      \ by the leader; \n Promoted the progress of UI design, development, and testing.\n"
+    latex_place: Guangzhou, China
+    details: "Operated and optimized a project using the knowledge and expertise acquired.\n\
+      - **Renewed Operation Process**: \nRenewed the whole operation process with\
+      \ automatic Python programs in spare time and cut more than 60% work hours,\
+      \ freed employees from repetitive tasks, and greatly enhanced the efficiency\
+      \ and quality of content;\n- **Summarized Operation Experiences**: \nIncreased\
+      \ views by 40% in a month; Generalized the operation methods as a handbook to\
+      \ reduce employees\u2019 learning costs, including operation experiences and\
+      \ automated processes;\n- **Proposed Product's New Features**: \nAnalyzed current\
+      \ situation and competitors\u2019 advantages, produced the proposal of new features\
+      \ and improvements, then reported in the department and affirmed by the leader;\
+      \ Promoted the progress of UI design, development, and testing.\n"
   - role: Photography and Post-editing Intern
     time: Jul 2021 - Aug 2021
     company: Putian Meizhou Daily - Center of New Media
+    latex_place: Guangzhou, China
     details: "Taking and editing short videos about news based on my interests and\
-      \ expertise.\n - **Short Videos Producing**: \n Participated in producing 30+\
-      \ short videos and posted them to the \"Putian News\" TikTok account. \n The\
-      \ highest amount of likes of videos hit approximately 1.7k+. \n All the materials\
-      \ were published in newspapers or used in short videos.\n"
+      \ expertise.\n- **Short Videos Producing**: \nParticipated in producing 30+\
+      \ short videos and posted them to the \"Putian News\" TikTok account. The highest\
+      \ amount of likes of videos hit approximately 1.7k+. All the materials were\
+      \ published in newspapers or used in short videos.\n"
   - role: Content Operation Intern
     time: Jul 2021 - Aug 2021
     company: Guangzhou Kugou Technology Co., Ltd. - Kugou Concept Version Department
-    details: "Operated the channel and study room in Kugou Concept Version. \nRanked\
-      \ 7th in KPI at the end of the project (1st at the highest).\n  - **Operating\
-      \ Channel**: \n  Summarized the recommendation regulation, \n  then formulated\
-      \ and implemented the operation plan in stages \n  according to the current\
-      \ situation of the channel. \n  More than 6,0000 users subscribed to the channel\
-      \ during that period.\n"
+    latex_place: Guangzhou, China
+    details: "Operated the channel and study room in Kugou Concept Version.\nRanked\
+      \ 7th in KPI at the end of the project (1st at the highest).\n- **Operating\
+      \ Channel**: \nSummarized the recommendation regulation, then formulated and\
+      \ implemented the operation plan in stages according to the current situation\
+      \ of the channel. More than 6,0000 users subscribed to the channel during that\
+      \ period.\n"
   - role: Content Operation Intern
     time: Mar.2021 - May.2021
     company: SOHU Inc. - Huyou Department
+    latex_place: Guangzhou, China
     details: "Participated in the content experience of the Huyou app and gave feedback.\n\
-      \  - **Feedback Report**: \n  Wrote the experience report every week to point\
-      \ out \n  the issues about the content operation and experience \n  of the community,\
-      \ content, and the app itself, \n  then presented feasible ideas to improve.\n"
+      - **Feedback Report**: \nWrote the experience report every week to point out\
+      \ the issues about the content operation and experience of the community, content,\
+      \ and the app itself, then presented feasible ideas to improve.\n"
 projects:
   title: Projects
   info:
