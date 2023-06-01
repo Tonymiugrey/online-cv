@@ -91,48 +91,47 @@ projects:
   - title: StomaCloud App (Still in Development)
     role: Product Manager + App Development
     time: Oct 2022 - Present
+    Achievements: null
     details: "An app that helps you to decide what to eat.\n- **Proposing Features**:\
       \ \nDiscussing and confirming the features with teammates and setting priority\
       \ for them;\n- **UI Design and App Development**: \nPresenting the initial design\
       \ of UI and developing the iOS App with SwiftUI;\n- **Data Processing**: \n\
-      Taking part in data processing and being responsible for \ndeveloping an automatic\
+      Taking part in data processing and being responsible for developing an automatic\
       \ data sorting system.\n"
-  - title: Improvement of Sony Imaging Edge (Click for prototype)
+  - title: Improvement of Sony Imaging Edge
     role: Course Project - Team Leader + Prototype Design
     time: Feb 2022 - May 2022
-    link: https://tony143447.invisionapp.com/prototype/ckyrhixkm006f8o01pa3aloqg/play
-    details: "Improved Sony Imaging Edge App and made a prototype. \nPresented the\
-      \ idea of making camera photography easier \nby Computational Photography technology,\
-      \ combining the \nperformance advantage of smartphones with the imaging advantage\
-      \ \nof cameras innovatively.\n- **As Leader**: \n    Presented innovative ideas,\
-      \ coordinated the division \n    of teammates, and managed project planning\
-      \ and schedule;\n- **Planning New Features**: \n    Segmented the original target\
-      \ users and determined the details of new features according to requirements;\n\
-      - **Improving User Experience**: \n    Optimized the current user experience\
-      \ and functions according to other related apps; improved UX continuously due\
-      \ to feedback from others;\n- **Logic and Prototype Design**: \nCompleted the\
-      \ system architecture, data flow, and some other logical diagrams with teammates;\
-      \ Redesigned the UI and completed the prototype design independently, then demonstrated\
-      \ the final results in class.\n"
-  - title: ka!Bot Mechanical Keyboard (Click for Business Plan)
+    Achievements: null
+    details: "Improved Sony Imaging Edge App and made a prototype.\nPresented the\
+      \ idea of making camera photography easier\nby Computational Photography technology,\
+      \ combining the\nperformance advantage of smartphones with the imaging advantage\n\
+      of cameras innovatively.\n- **As Leader**: \nPresented innovative ideas, coordinated\
+      \ the division of teammates, and managed project planning and schedule;\n- **Planning\
+      \ New Features**: \nSegmented the original target users and determined the details\
+      \ of new features according to requirements;\n- **Improving User Experience**:\
+      \ \nOptimized the current user experience and functions according to other related\
+      \ apps; improved UX continuously due to feedback from others;\n- **Logic and\
+      \ Prototype Design**: \nCompleted the system architecture, data flow, and some\
+      \ other logical diagrams with teammates; Redesigned the UI and completed the\
+      \ prototype design independently, then demonstrated the final results in class.\n"
+  - title: ka!Bot Mechanical Keyboard
     role: Entrepreneurship Project - Team Leader + Product Manager
     time: Oct 2020 - Dec 2021
-    link: https://cv.miugrey.com.cn/assets/attachments/ka!Bot_BP.pdf
-    details: "**Achievements: Project Innovation Award (Top 20 in HK and MO area),\
-      \ the 10th \"Winning in Guangzhou\" College Students' Entrepreneurship Contest**\n\
-      \"ka!Bot\" dedicated in the customized mechanical keyboard for enthusiasts and\
-      \ entry-level users. The unique and innovative modularization design will enhance\
-      \ the features of keyboards and satisfy geeks' imagination. Our services will\
-      \ significantly enhance the experiences of purchase and use. We hope to make\
-      \ more people enjoy the fun and satisfaction of customization.\n  - **As Leader**:\
-      \ \n  Presented innovative ideas and led the team to plan and promote the progress\
-      \ of the project;\n  - **Planning Product Line and Features**: \n  Presented\
-      \ concept of product ecosystem and unique features to fit requirements of different\
-      \ groups of consumers due to market research; Presented some technical details\
-      \ such as modularizing design, then ensuring its feasibility;\n  - **Planning\
-      \ Future Developments**: \n  Presented the\" three-step\" strategy: focus on\
-      \ one segment market and marketing strategy in the early stage. Then gradually\
-      \ enrich the product line and cover multiple types of markets and target users.\n"
+    Achievements: Project Innovation Award (Top 20 in HK and MO area), the 10th "Winning
+      in Guangzhou" College Students' Entrepreneurship Contest
+    details: "\"ka!Bot\" dedicated in the customized mechanical keyboard for enthusiasts\
+      \ and entry-level users. The unique and innovative modularization design will\
+      \ enhance the features of keyboards and satisfy geeks' imagination. Our services\
+      \ will significantly enhance the experiences of purchase and use. We hope to\
+      \ make more people enjoy the fun and satisfaction of customization.\n- **As\
+      \ Leader**: \nPresented innovative ideas and led the team to plan and promote\
+      \ the progress of the project;\n- **Planning Product Line and Features**: \n\
+      Presented concept of product ecosystem and unique features to fit requirements\
+      \ of different groups of consumers due to market research; Presented some technical\
+      \ details such as modularizing design, then ensuring its feasibility;\n- **Planning\
+      \ Future Developments**: \nPresented the\" three-step\" strategy, focus on one\
+      \ segment market and marketing strategy in the early stage. Then gradually enrich\
+      \ the product line and cover multiple types of markets and target users.\n"
 skills:
   title: Skills &amp; Proficiency
   toolset:
