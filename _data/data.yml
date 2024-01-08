@@ -36,8 +36,11 @@ education:
     time: 2023 - 2024, 1年
     details: "文本与网络挖掘 (深度学习、NLP 和 PyTorch), 信息可视化 (Tableu 和 D3.js), 移动应用开发 (React Native), 软件项目
 管理, 人机交互..."
-
-
+  - degree: 工商管理（商业分析）学士
+    university: 澳门科技大学，商学院
+    time: 2019 - 2023, 4年
+    details: "系统分析与设计, 数据挖掘与大数据 (机器学习), 数据库 (MySQL), 数据结构, 管理信息系统, 商业统计, 人工智能与
+机器人的商业应用, 市场营销, 战略管理..."
 experiences:
   title: 工作经历
   info:
