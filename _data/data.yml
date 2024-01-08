@@ -1,7 +1,7 @@
 sidebar:
-  about: true
+  about: false
   education: true
-  name: Sun Haoyang
+  name: 孙昊洋
   tagline: Tony
   avatar: profile.png
   email: TonySun@miuGrey.com.cn
@@ -13,51 +13,55 @@ sidebar:
   pdf: null
   portfolio: assets/attachments/Haoyang_Sun_s_Portfolio.pdf
   languages:
-    title: Languages
+    title: 语言能力
     info:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: IELTS Academic 6.5
+    - idiom: 英文
+      level: 流利
+    - idiom: 中文
+      level: 母语
   interests:
-    title: Interests
+    title: 兴趣
     info:
-    - item: "\U0001F4F1 Digital Devices"
+    - item: "\U0001F4F1 数码产品"
       link: null
-    - item: "\U0001F4F7 Photography/Videography"
-      link: null
-    - item: "\U0001F468\U0001F3FB\u200D\U0001F4BB Coding"
+    - item: "\U0001F4F7 摄影与后期（点击查看）"
+      link: https://miugrey.com.cn/photos
+    - item: "\U0001F468\U0001F3FB\u200D\U0001F4BB 敲代码"
       link: null
 education:
-  title: Education
+  title: 教育经历
   info:
-  - degree: Business Administration - Business Analytics
-    university: Business School, Macau University of Science and Technology
-    time: 2019 - 2023, 4 Years
-    details: "Learnt some business and general education courses in first two years,\
-      \ then business analytics courses until graduate.\n- **Business Analytics Courses**:\
-      \ \nSystem Analysis and Design, Data Mining and Big Data, Database, Data Structure...\n\
-      - **Other Business Courses**: \nManagement of Information System, Business Statistic,\
-      \ Marketing...\n- **General Education Courses**: \nMathematics, Information\
-      \ Technology...\n- **Elective Courses**: \nVisual Communication, Computer Science,\
-      \ AI and Robotics Applications in Business...\n"
+    - degree: 信息系统硕士
+    university: 新加坡南洋理工大学（QS26），黄金辉传播与信息学院
+    time: 2023 - 2024, 1年
+    details: "文本与网络挖掘 (深度学习、NLP 和 PyTorch), 信息可视化 (Tableu 和 D3.js), 移动应用开发 (React Native), 软件项目
+管理, 人机交互..."
+
+  - degree: 工商管理（商业分析）学士
+    university: 澳门科技大学，商学院
+    time: 2019 - 2023, 4年
+    details: "系统分析与设计, 数据挖掘与大数据 (机器学习), 数据库 (MySQL), 数据结构, 管理信息系统, 商业统计, 人工智能与
+机器人的商业应用, 市场营销, 战略管理..."
+
 experiences:
-  title: Working Experiences
+  title: 工作经历
   info:
-  - role: Product Operation Intern
-    time: Jun 2022 - Aug 2022
-    company: Beijing Qihoo Technology Co., Ltd. - InnoTech Department
-    details: "Operated and optimized a project using the knowledge and expertise acquired.\n\
-      - **Renewed Operation Process**: \nRenewed the whole operation process with\
-      \ automatic Python programs in spare time and cut more than 60% work hours,\
-      \ freed employees from repetitive tasks, and greatly enhanced the efficiency\
-      \ and quality of content;\n- **Summarized Operation Experiences**: \nIncreased\
-      \ views by 40% in a month; Generalized the operation methods as a handbook to\
-      \ reduce employees\u2019 learning costs, including operation experiences and\
-      \ automated processes;\n- **Proposed Product's New Features**: \nAnalyzed current\
-      \ situation and competitors\u2019 advantages, produced the proposal of new features\
-      \ and improvements, then reported in the department and affirmed by the leader;\
-      \ Promoted the progress of UI design, development, and testing.\n"
+  - role: 产品运营实习生
+    time: 2022.6 – 2022.8, 3 个月
+    company: 北京奇虎科技有限公司（360）- InnoTech 事业部
+    details: "全权负责一个影视推荐网站项目模块的运营与优化。\n\
+      \ · **运营流程优化迭代**: \n- 简化了日常内容更新的运营流程，\
+      \ 通过设计与编写一系列 Python 程序和脚本，实现自动化运营；\n \
+      \ - 减少了 60% 以上的工作量，避免流程中出现机械、重复的工作， \
+      \ 极大地提升了内容运营的效率与质量，在一个月内将浏览量提高约 40%。\n \
+      \ · **运营经验整理输出**: \n \
+      \ - 根据运营工作中积累的经验，标准化运营方法，并输出为运营手册， \
+      \ 内容包括运营方法论与自动化程序使用方法；\n \
+      \ - 减少了新员工的学习成本，方便其快速熟悉项目与运营方法，保证项目平滑交接。\n \
+      \ · **参与产品迭代流程**: \n \
+      \ - 分析产品现状与竞品优势，据此提出新功能与产品优化的提案并在部门内汇报； \
+      \ 汇报内容与提出的方案多次得到领导肯定；\n \
+      \ - 推动项目进度，跟踪 UI 设计、开发与测试流程，保证新版本顺利上线。\n"
   - role: Photography and Post-editing Intern
     time: Jul 2021 - Aug 2021
     company: Putian Meizhou Daily - Center of New Media
