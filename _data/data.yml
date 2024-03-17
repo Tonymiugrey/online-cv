@@ -1,7 +1,7 @@
 sidebar:
-  about: true
+  about: false
   education: true
-  name: Sun Haoyang
+  name: 孙昊洋
   tagline: Tony
   avatar: profile.png
   email: TonySun@miuGrey.com.cn
@@ -13,24 +13,34 @@ sidebar:
   pdf: null
   portfolio: assets/attachments/Haoyang_Sun_s_Portfolio.pdf
   languages:
-    title: Languages
+    title: 语言能力
     info:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: IELTS Academic 6.5
+    - idiom: 英文
+      level: 流利
+    - idiom: 中文
+      level: 母语
   interests:
-    title: Interests
+    title: 兴趣
     info:
-    - item: "\U0001F4F1 Digital Devices"
+    - item: "\U0001F4F1 数码产品"
       link: null
-    - item: "\U0001F4F7 Photography/Videography"
-      link: null
-    - item: "\U0001F468\U0001F3FB\u200D\U0001F4BB Coding"
+    - item: "\U0001F4F7 摄影与后期（点击查看）"
+      link: https://miugrey.com.cn/photos
+    - item: "\U0001F468\U0001F3FB\u200D\U0001F4BB 敲代码"
       link: null
 education:
-  title: Education
+  title: 教育经历
   info:
+  - degree: Business Administration - Business Analytics
+    university: Business School, Macau University of Science and Technology
+    time: 2019 - 2023, 4 Years
+    details: "Learnt some business and general education courses in first two years,\
+      \ then business analytics courses until graduate.\n- **Business Analytics Courses**:\
+      \ \nSystem Analysis and Design, Data Mining and Big Data, Database, Data Structure...\n\
+      - **Other Business Courses**: \nManagement of Information System, Business Statistic,\
+      \ Marketing...\n- **General Education Courses**: \nMathematics, Information\
+      \ Technology...\n- **Elective Courses**: \nVisual Communication, Computer Science,\
+      \ AI and Robotics Applications in Business...\n"
   - degree: Business Administration - Business Analytics
     university: Business School, Macau University of Science and Technology
     time: 2019 - 2023, 4 Years
